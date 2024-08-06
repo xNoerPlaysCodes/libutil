@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0a3273-d70e-45b5-ac2c-b29d43d45577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/noerlol/util/ArrayJoiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/noerlol/util/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/noerlol/util/FastArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/noerlol/util/NImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/noerlol/util/ResourceFetcher.java" afterDir="false" />
-    </list>
+    <list default="true" id="4d0a3273-d70e-45b5-ac2c-b29d43d45577" name="Changes" comment="1.4-RELEASE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +19,39 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xNoerPlaysCodes"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xNoerPlaysCodes/libutil",
+    "accountId": "80d5125e-ab22-43f8-bdd3-436cb1b6e918"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -63,6 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722352879888</updated>
     </task>
+    <task id="LOCAL-00001" summary="1.4-RELEASE">
+      <option name="closed" value="true" />
+      <created>1722957174969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722957174969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.4-RELEASE" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.4-RELEASE" />
   </component>
 </project>
